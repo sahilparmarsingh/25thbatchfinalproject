@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-11T11:57:24 IST" name="Default suite" finished-at="2023-10-11T11:58:05 IST" duration-ms="40449">
+  <suite started-at="2023-10-11T14:10:33 IST" name="Default suite" finished-at="2023-10-11T14:11:25 IST" duration-ms="52057">
     <groups>
     </groups>
-    <test started-at="2023-10-11T11:57:24 IST" name="Default test" finished-at="2023-10-11T11:58:05 IST" duration-ms="40449">
+    <test started-at="2023-10-11T14:10:33 IST" name="Default test" finished-at="2023-10-11T14:11:25 IST" duration-ms="52057">
       <class name="mavenProject.SignupVerify">
-        <test-method signature="signup()[pri:0, instance:mavenProject.SignupVerify@4562e04d]" started-at="2023-10-11T11:57:24 IST" name="signup" finished-at="2023-10-11T11:58:05 IST" duration-ms="40329" status="PASS">
+        <test-method signature="signup()[pri:0, instance:mavenProject.SignupVerify@4562e04d]" started-at="2023-10-11T14:10:33 IST" name="signup" finished-at="2023-10-11T14:11:25 IST" duration-ms="51918" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signup -->

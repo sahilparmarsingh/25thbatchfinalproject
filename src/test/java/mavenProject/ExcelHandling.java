@@ -20,9 +20,9 @@ public class ExcelHandling {
 		
 	   FileInputStream fs=new FileInputStream("C:\\Users\\Hp\\Desktop\\java ss and excel\\excel\\ID AND PASSWORD.xlsx");
 		
-		XSSFWorkbook wb=new XSSFWorkbook(fs);
+		XSSFWorkbook wr=new XSSFWorkbook(fs);
 		
-		XSSFSheet sheet=wb.getSheetAt(0);
+		XSSFSheet sheet=wr.getSheetAt(0);
 		
 		XSSFRow row=sheet.getRow(0);
 		
